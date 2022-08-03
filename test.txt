@@ -1,5 +1,5 @@
-hello wrold! 222222
-hello wrold! 00000
+hello wrold! 2
+hello wrold! 0
 hello wrold!
 hello wrold!
 hello wrold!
