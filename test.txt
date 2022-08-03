@@ -3,4 +3,4 @@ hello wrold! 0
 hello wrold!
 hello wrold!
 hello wrold! master test
-hello wrold!
+hello wrold! slave test
